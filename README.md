@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Play the App online
+
+Play the game online: https://friendly-boyd-11b7bd.netlify.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
