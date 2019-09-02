@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Play the App online
 
-Play the game online: https://friendly-boyd-11b7bd.netlify.com/
+Play the game online: https://simple-tictactoe-game.netlify.com/
 
 ## Available Scripts
 
